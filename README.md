@@ -43,3 +43,6 @@ manim algo_visualize.py AlgoScene -pqm
 - algo_manim.py - script for manim visualization
 - algo_text_min_output.py - script for minimal text visualization (only input DFA and minimized DFA will be displayed)
 - algo_text_max_output.py - script for detailed text visualization (each step will be displayed)
+
+## **Examples**
+![Alt Text](examples/all_terminal_except_4.gif)
